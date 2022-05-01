@@ -2,8 +2,6 @@
 
 O curso de Data Science e Machine Learning da Tera reúne quase 500 horas de conteúdo, entre materiais assíncrono, desafios, encontros ao vivo e mentorias, para te ajudar a dominar conceitos, ferramentas e habilidades essenciais para cientistas de dados. No curso você terá aulas com especialistas de mercado, projetos práticos de Ciência de Dados e mentorias exclusivas.
 
-A carga horária é de aproximadamente 9 meses de duração, com aulas ao vivo duas vezes por semana, das 19h às 22h.
-
 Desenvolvemos um conteúdo 100% voltado para o mercado e em parceria com as maiores empresas de tecnologia atuais e líderes em Ciência de Dados no Brasil. Por isso, ao longo do curso de Data Science e Machine Learning você vai aprender desde Python, Análise e Estruturação de Dados, até técnicas introdutórias e avançadas de Machine Learning, além de Storytelling, Ética e Visão de Negócios.
 
 <br>
