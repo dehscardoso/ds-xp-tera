@@ -1,0 +1,5 @@
+pip install virtualenv ## instala o pacote virtualenv
+virtualenv env-name ## cria ambiente virtual
+\env-name\Scripts\activate.bat ## ativa ambiente virtual
+
+

@@ -1,0 +1,6 @@
+data/*
+models/*.pkl
+.ipynb_checkpoints/*
+*.ipynb
+venvs/*
+!venvs/.gitignore

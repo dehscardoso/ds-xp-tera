@@ -1,0 +1,5 @@
+cotovelo: https://medium.com/pizzadedados/kmeans-e-metodo-do-cotovelo-94ded9fdf3a9
+silhueta: https://acervolima.com/silhouette-index-indice-de-validade-de-cluster-conjunto-2/
+silhueta em ingles: https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html
+video parallel plot em ingles: https://www.youtube.com/watch?v=xJEoEAI08UQ
+https://www.data-to-viz.com/graph/parallel.html#:~:text=Parallel%20plot%20or%20parallel%20coordinates,units%20can%20even%20be%20different).
